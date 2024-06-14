@@ -4,7 +4,6 @@
 
   This project creates a two-page website where users can input and view blog posts.
 
-  Link to the walkthrough video: https://app.screencastify.com/v3/watch/myOl9QCXl9WkmPA1GRih
   ## Table Of Content
   *[Title](#title)
 
